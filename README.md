@@ -1,6 +1,7 @@
 # zero-constructor
 Runtime customizable constructor
-For lazy people :P
+
+For lazy people ._.
 
 ## Usage
 ```php
