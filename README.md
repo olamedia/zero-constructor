@@ -15,7 +15,9 @@ class myclass extends \zero\constructor{
 ```
 
 ```php
-$m = new myclass(['var' => 'value2']);
+$m = new myclass([
+    'var' => 'value2'
+]);
 var_dump($m->func());
 // string(6) "value2"
 ```
